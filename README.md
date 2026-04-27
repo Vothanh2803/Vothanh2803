@@ -19,4 +19,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Vothanh2803&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="LINK_ẢNH_CỦA_BẠN" width="100%" alt="Banner">
+</p>
