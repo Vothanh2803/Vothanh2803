@@ -1,4 +1,4 @@
-<img width="100%" height="360" alt="Colorful Cute Cats Illustration Desktop Wallpaper" src="https://github.com/user-attachments/assets/ac5c3b6c-3da0-4cd1-b44a-5a03df898052" />
+<img width="100%" height="540" alt="Colorful Cute Cats Illustration Desktop Wallpaper" src="https://github.com/user-attachments/assets/ac5c3b6c-3da0-4cd1-b44a-5a03df898052" />
 
 
 ## 🌐 Socials:
