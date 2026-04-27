@@ -1,4 +1,4 @@
-<img width="600" height="240" alt="Blue Green Brown Gaming Pixel Art Discord Profile Banner" src="https://github.com/user-attachments/assets/b60d4c17-3ba2-466d-80d4-40cc45c4a999" />
+<img width="100%" height="360" alt="Blue Green Brown Gaming Pixel Art Discord Profile Banner" src="https://github.com/user-attachments/assets/b60d4c17-3ba2-466d-80d4-40cc45c4a999" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phuocthanh.vo.7146/) 
@@ -18,7 +18,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=Vothanh2803&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <img src="LINK_ẢNH_CỦA_BẠN" width="100%" alt="Banner">
-</p>
