@@ -1,4 +1,5 @@
-<img width="100%" height="360" alt="Blue Green Brown Gaming Pixel Art Discord Profile Banner" src="https://github.com/user-attachments/assets/b60d4c17-3ba2-466d-80d4-40cc45c4a999" />
+<img width="100%" height="360" alt="Colorful Cute Cats Illustration Desktop Wallpaper" src="https://github.com/user-attachments/assets/ac5c3b6c-3da0-4cd1-b44a-5a03df898052" />
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phuocthanh.vo.7146/) 
